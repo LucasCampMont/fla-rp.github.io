@@ -4,6 +4,27 @@ body {
   background-color: #d3e1f6;
 }
 
+.texto-banner{
+  font-size: small;
+}
+
+.texto-general{
+  font-family: "Roboto", sans-serif;
+}
+
+.texto-descripcion{
+  text-align: justify;
+  font-size:20px;
+}
+
+.texto-experiencia{
+  font-size:medium;
+}
+
+.texto-seccion{
+  font-size:medium;
+}
+
 h2 {
   margin-bottom: 1rem;
 }
